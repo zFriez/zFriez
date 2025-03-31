@@ -10,12 +10,6 @@ Front-end Developer looking for being more active and working on new projects.
   <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
 </div>
 
-## Currently studying
-<div style="inline-block">
-  <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-</div>
-
 <!--
 **zFriez/zFriez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
