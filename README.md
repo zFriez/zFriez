@@ -1,5 +1,5 @@
 ## Hi, my name is Matheus Saar 👋
-Front-end Developer looking for being more active and working on new projects.
+Front-end Developer looking for being more active, also working on new projects.
 
 ## Technologies
 <div style="inline-block">
